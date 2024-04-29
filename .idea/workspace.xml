@@ -5,13 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5854b86f-f30f-40cd-ad0c-29d02404a2ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/finalproject/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/finalproject/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/220302231734-01-ukrainedao-nft-flag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/41Hsk2pRqKL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/44177a0cb8f73f4781a08bd7b400ca74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/8065c9e0231029e8fda40e7eaeb0d933.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/Champions_League.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/Flag_of_Italy_(1946–2003).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/Liverpool.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/ManCity.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/ManUnited.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/d0785240bb70d878a2cec6aeb30808a9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/e6e3ef11313f0b8df3a2dec703a7d7de.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/england.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/fa4f0db883d36fbfcfe76c06d9012be0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/flag-of-france-flag-of-italy-national-flag-france.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/spain-flag-free-png.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/ukraine-flag-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/images/Снимок экрана 2024-04-29 в 12.55.21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/FootballTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/HoverHBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/HoverLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/LeagueLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/MainScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/PremierLeague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/Teams/ManchesterCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/finalproject/TeamsListView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/finalproject/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,21 +73,37 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2flSsdPuNI3Lx7BFUaVTVm2QYrk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.MainScreen.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/images" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714374387935</updated>
-      <workItem from="1714374388950" duration="4000" />
+      <workItem from="1714374388950" duration="38074000" />
     </task>
     <servers />
   </component>

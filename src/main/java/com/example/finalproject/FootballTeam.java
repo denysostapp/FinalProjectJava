@@ -23,5 +23,8 @@ public class FootballTeam {
     public String getCoach() {
         return coach;
     }
+    public String toString() {
+        return name;
+    }
 
 }

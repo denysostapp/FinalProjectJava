@@ -1,2 +1,4 @@
-package com.example.finalproject.Teams;public class ManchesterCity {
+package com.example.finalproject.Teams;
+
+public class ManchesterCity {
 }
